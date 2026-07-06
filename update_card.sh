@@ -1,0 +1,1 @@
+sed -i 's/import androidx.compose.material.icons.filled.Star/import androidx.compose.material.icons.filled.Star\nimport androidx.compose.material.icons.filled.Delete\nimport androidx.compose.material.icons.filled.PushPin\nimport androidx.compose.material.icons.outlined.PushPin/g' /app/src/main/java/com/example/ui/home/HomeScreen.kt

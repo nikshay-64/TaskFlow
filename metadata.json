@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A polished, production-ready task management app with a neumorphic design, customizable tasks, subtasks, and celebration mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
